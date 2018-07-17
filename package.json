@@ -10,7 +10,7 @@
   "author": "Stephane Rodet",
   "license": "ISC",
   "devDependencies": {
-    "carbon-components": "git://github.com/rodet/carbon-components.git"
+    "carbon-components": "../carbon-components/"
   },
   "dependencies": {
     "http-server": "^0.11.1"
